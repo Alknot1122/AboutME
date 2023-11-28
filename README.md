@@ -36,11 +36,13 @@ Here are some certificates or awards I've earned:
 
 ## Contact Me
 </div>
+
 - 📧 Email: teeramet.wtc@gmail.com
-- 🌐 LinkedIn: [Teeramet Wongtechit](https://linkedin.com/in/teeramet-wongtechit)
+
+- 🌐 LinkedIn:[Teeramet Wongtechit](https://linkedin.com/in/teeramet-wongtechit)
 
 ## My Works
-
+---
 
 <div align="center">
   <h3>Web Development:</h3>
@@ -66,4 +68,11 @@ __*****IMPORTANT!: </br>- This is the final project of I2CEDT</br>- This is almo
 ### <div align="center"> Mobile </div>
 <div align="center">
 <img src="./gif/overallPhone.gif" alt="Overall GIF"  height="200" >
+</div>
+<div align="center">
+
+---
+
+  <h3>Manual & Automated Testing:</h3>
+  <h3><a href="">Work in Progress..</a></h3>
 </div>
