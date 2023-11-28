@@ -4,21 +4,66 @@ I'm a passionate Computer Engineering and Digital Technology student at Chulalon
 
 ## About Me
 
+_Teeramet Wongtechit_
+
+- 🧓 Age: 19
 - 🌍 Location: Thailand
 - 📚 Studying: Computer Engineering & Digital Technology at Chulalongkorn University
-- 📫 Contact: **teeramet.wtc@gmail.com**
-@@ -16,9 +16,14 @@ I'm a passionate Computer Engineering and Digital Technology student at Chulalon
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+- 💡 I am currently **interested** in **manual and automated testing**, **software development**, and 
+**web development**.
+
+<h3 align="left">Tools</h3>
+Languages and Tools that i can use:
+
+  * __C++__
+  * __C#__
+  * __HTML__
+  * __CSS__
+  * __PYTHON__
+  * __SELENIUM__
+  * __ROBOT FRAMEWORK__
+  * __UNITY__
+  * __BLENDER__
 
 ## Certificates
 
 Here are some certificates or awards I've earned:
+<img align="right" src="/materials/unity-certified-user-programmer.png" alt="Unity Certified Badge" width="80" height="80"/>
+<br>
 
-- 🏅 [Unity Certified User: Programmer](https://www.linkedin.com/in/teeramet-wongtechit-98740a29b/overlay/1635551456242/single-media-viewer/?type=IMAGE&profileId=ACoAAEh_aPcB-lIVAhMDlIRO0bcMz50EJEgiicw)
-  ![Unity Certified Badge](https://unity.com/sites/default/files/styles/large/public/2021-10/Certification-Badges-User-Programmer-600x600.png?itok=12VDzBS7)
+- 🏅 [Unity Certified User: Programmer](/materials/Unity_Cert.jpg)<br>  From: Unity Software Inc.
+- 🏆 [The training course on developing skills in using, developing, or designing products, goods, and services utilizing innovative technologies AR, VR, MR, and 3D](/materials/1209702179951_cert-1.png)<br> From: Thailand Digital Economy Promotion Agency with the King Mongkut's Institute of Technology Ladkrabang
 
 ## Contact Me
-
+</div>
 - 📧 Email: teeramet.wtc@gmail.com
-- 🌐 LinkedIn: [Teeramet Wongtechit](www.linkedin.com/in/teeramet-wongtechit)
+- 🌐 LinkedIn: [Teeramet Wongtechit](https://linkedin.com/in/teeramet-wongtechit)
+
+## My Works
+
+
+<div align="center">
+  <h3>Web Development:</h3>
+  <h3><a href="https://github.com/Taihenc/YAKINIKU">Yakiniku</a></h3>
+</div>
+
+YAKINIKU is a website for learning about yakiniku. This site will provide you with a variety of cow breeds along with valuable information. It includes details about each cut, such as its origin and cooking recommendations. Additionally, we offer a mini-game for yakiniku enthusiasts where you can select a beef cut, read the cooking guide, start grilling, and receive a cooking result to gauge your skills.
+<div align="center">
+<img src="./gif/overall.gif" alt="Overall GIF" autoplay loop>
+</div>
+
+__*****IMPORTANT!: </br>- This is the final project of I2CEDT</br>- This is almost built with pure HTML, JS, CSS (excluding routing things) because it's an I2CEDT-final requirement.__
+
+
+## Previews
+<div align="center">
+<img src="./gif/overall.gif" alt="Overall GIF" width="200" autoplay loop>
+<img src="./gif/breed.gif" alt="Breed GIF" width="200" autoplay loop>
+<img src="./gif/cut.gif" alt="Cut GIF" width="200" autoplay loop>
+<img src="./gif/cook.gif" alt="Cook GIF" width="200" autoplay loop>
+</div>
+
+### <div align="center"> Mobile </div>
+<div align="center">
+<img src="./gif/overallPhone.gif" alt="Overall GIF"  height="200" >
+</div>
