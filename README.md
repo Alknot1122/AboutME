@@ -52,21 +52,21 @@ This repository serves as my training ground for practicing testing methods, bot
 <br><br>  
 
 ## Previews
-</div>
-<div align="center">
-<img src="./gif/test.gif" alt="Testase" style="width: 70%; height: 70%;" autoplay loop>
-<br>
-
-<h4><a href="https://github.com/Alknot1122/QAHive_Demo/blob/main/Test_Login_Selenium.py">Automated Test with Selenium</a>
-<br><br>
-</div>
 
 <div align="center">
-<img src="./materials/TestCase.png" alt="Testase" style="width: 65%; height: 65%;">
-<br>
+  <img src="./gif/test.gif" alt="Test Gif" style="width: 65%; height: 70%;" autoplay loop>
+  <br>
 
-<h4><a href="https://github.com/Alknot1122/QAHive_Demo/blob/main/Testcases.xlsx">Test Case Example</a></h4>
+  <h4><a href="https://github.com/Alknot1122/QAHive_Demo/blob/main/Test_Login_Selenium.py">Automated Test with Selenium</a></h4>
+  <br>
+</div>
 
+<div align="center">
+  <img src="./materials/TestCase.png" alt="Testcase" style="width: 65%; height: 65%;">
+  <br>
+
+  <h4><a href="https://github.com/Alknot1122/QAHive_Demo/blob/main/Testcases.xlsx">Test Case Example</a></h4>
+</div>
 
 
 
