@@ -54,7 +54,7 @@ This repository serves as my training ground for practicing testing methods, bot
 ## Previews
 
 <div align="center">
-  <img src="./gif/test.gif" alt="Test Gif" autoplay loop>
+  <img src="./gif/Test.gif" alt="Test Gif" style="width: 65%; height: 65%;" autoplay loop>
   <br>
 
   <h4><a href="https://github.com/Alknot1122/QAHive_Demo/blob/main/Test_Login_Selenium.py">Automated Test with Selenium</a></h4>
