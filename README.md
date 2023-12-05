@@ -47,26 +47,28 @@ Here are some certificates or awards I've earned:
   <h3>Manual & Automated Testing:</h3>
   <h3><a href="https://github.com/Alknot1122/QAHive_Demo">QA Hive Demo Testing</a></h3>
 </div>
-This repo is where I practice manual and automated testing with Selenium in Python for https://web-demo.qahive.com/. It's my training space for testing techniques. I work on testing this specific website for various scenarios. I use Python and Selenium for automated testing.
+<br>
+This repository serves as my training ground for practicing testing methods, both manual and automated, using Python and Selenium. Specifically, I focus on testing https://web-demo.qahive.com/, exploring diverse scenarios to enhance my testing skills. Within this space, I experiment with different testing techniques, aiming to improve my proficiency in assessing this particular website. Through Python and Selenium, I conduct automated tests, refining my understanding of testing methodologies.
 <br><br>  
 
+## Previews
+<div align="center">
+<img src="./materials/TestCase.png" alt="Testase" style="width: 40%; height: 40%;">
+<br>
 
-<div style="display: flex; justify-content: center;">
-  <figure style="width: 50%;">
-    <img src="./materials/TestCase.png" alt="Testase" style="width: 936px; height: 450px;">
-    <figcaption style="text-align: center; font-size: larger;">
-      <strong><a href="https://github.com/Alknot1122/QAHive_Demo/blob/main/Testcases.xlsx">Testcase Example</a></strong>
-    </figcaption>
-  </figure>
-  <figure style="width: 50%;">
-  <br> <br>
-   <br> 
-    <img src="./gif/test.gif" alt="Test GIF" style="width: 2000px; height: 300px;">
-    <figcaption style="text-align: center; font-size: larger;">
-     <strong><a href="https://github.com/Alknot1122/QAHive_Demo/blob/main/Test_Login_Selenium.py">Automated Test with Selenium</a></strong>
-    </figcaption>
-  </figure>
+**Test Case Example**
 </div>
+<br><br>
+<div align="center">
+<img src="./gif/test.gif" alt="Testase" style="width: 50%; height: 50%;" autoplay loop>
+<br>
+
+**Automated Test With Selenium**
+</div>
+
+
+
+
 
 ---
 
@@ -75,11 +77,14 @@ This repo is where I practice manual and automated testing with Selenium in Pyth
   <h3>Web Development:</h3>
   <h3><a href="https://github.com/Taihenc/YAKINIKU">Yakiniku</a></h3>
 </div>
+<br>
 
 YAKINIKU is a website for learning about yakiniku. This site will provide you with a variety of cow breeds along with valuable information. It includes details about each cut, such as its origin and cooking recommendations. Additionally, we offer a mini-game for yakiniku enthusiasts where you can select a beef cut, read the cooking guide, start grilling, and receive a cooking result to gauge your skills.
+<br>
 <div align="center">
 <img src="./gif/overall.gif" alt="Overall GIF" autoplay loop>
 </div>
+<br>
 
 __*****IMPORTANT!: </br>- This is the final project of I2CEDT</br>- This is almost built with pure HTML, JS, CSS (excluding routing things) because it's an I2CEDT-final requirement.__
 
