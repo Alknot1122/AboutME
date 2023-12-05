@@ -62,7 +62,7 @@ This repository serves as my training ground for practicing testing methods, bot
 </div>
 
 <div align="center">
-  <img src="./materials/TestCase.png" alt="Testcase" style="width: 65%; height: 65%;">
+  <img src="./materials/TestCase.png" alt="Testcase" style="width: 75%; height: 75%;">
   <br>
 
   <h4><a href="https://github.com/Alknot1122/QAHive_Demo/blob/main/Testcases.xlsx">Test Case Example</a></h4>
